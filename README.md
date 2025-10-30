@@ -51,7 +51,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/Ajay03072005/Portfolio_Ajay.git
    cd pixel-pro-ajay
    ```
 

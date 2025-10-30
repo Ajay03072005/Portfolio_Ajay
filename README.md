@@ -1,4 +1,4 @@
-# 🚀 Ajay Patil - Portfolio Website
+# 🚀 Ajay P - Portfolio Website
 
 <div align="center">
 

@@ -104,7 +104,7 @@ const Hero = () => {
           {/* Role Tags */}
           <div className="flex flex-wrap gap-3 justify-center items-center pt-8 animate-fade-in" style={{ animationDelay: "0.5s" }}>
             <div className="px-4 py-2 bg-primary/10 border border-primary/20 rounded-full text-sm font-medium text-primary backdrop-blur-sm">
-              💼 Intern at Ajni Tech
+              💼 Intern at Rajni Tech
             </div>
             <div className="px-4 py-2 bg-accent/10 border border-accent/20 rounded-full text-sm font-medium text-accent backdrop-blur-sm">
               👥 Team Lead - Web Development

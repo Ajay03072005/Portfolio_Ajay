@@ -1,8 +1,10 @@
 {
-  "name": "vite_react_shadcn_ts",
+  "name": "ajay-portfolio",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "author": "Ajay Patil",
+  "description": "Professional portfolio showcasing UI/UX design and web development projects",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

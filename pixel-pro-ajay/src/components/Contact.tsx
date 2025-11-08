@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Card, CardContent } from "@/components/ui/card";
-import { Mail, Linkedin, Github, Dribbble, Send, Loader2 } from "lucide-react";
+import { Mail, Linkedin, Github, Dribbble, Send, Loader2, Instagram } from "lucide-react";
 import { toast } from "sonner";
 import emailjs from "@emailjs/browser";
 
@@ -77,9 +77,9 @@ const Contact = () => {
   };
 
   const socialLinks = [
-    { icon: Linkedin, href: "#", label: "LinkedIn", color: "hover:text-[#0077B5]" },
-    { icon: Github, href: "#", label: "GitHub", color: "hover:text-foreground" },
-    { icon: Dribbble, href: "#", label: "Dribbble", color: "hover:text-[#EA4C89]" },
+    { icon: Linkedin, href: "https://www.linkedin.com/in/ajayp02/", label: "LinkedIn", color: "hover:text-[#0077B5]" },
+    { icon: Github, href: "https://github.com/Ajay03072005", label: "GitHub", color: "hover:text-foreground" },
+    { icon: Instagram, href: "https://www.instagram.com/itz_ajax_02/", label: "Instagram", color: "hover:text-[#EA4C89]" },
     { icon: Mail, href: "mailto:ajayajax02@gmail.com", label: "Email", color: "hover:text-primary" },
   ];
 
